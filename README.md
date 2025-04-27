@@ -4,9 +4,9 @@ Trata-se de um trabalho apresentado para a disciplina de Algoritmos e Programaç
 
 ## 🚀 Equipe
 
-Gabriel Joaquim Schlindwein Odisi (gabriel.8525404@edu.univali.br)
-Guilherme Keller de Souza (guilherme.8535469@edu.univali.br)
-Wagner Atoguia Lima Junior (wagatoguia@edu.univali.br)
+- Gabriel Joaquim Schlindwein Odisi (gabriel.8525404@edu.univali.br)
+- Guilherme Keller de Souza (guilherme.8535469@edu.univali.br)
+- Wagner Atoguia Lima Junior (wagatoguia@edu.univali.br)
 
 ---
 
